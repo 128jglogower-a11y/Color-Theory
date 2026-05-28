@@ -19,7 +19,30 @@
     min-height: 50px;
 }
 #purple {
+    background-color: purple;
+    min-height: 50px;
+}
+#redorange {
+    background-color: rgb(255, 60, 12);
+    min-height: 50px;
+}
+#yelloworange {
+    background-color: rgb(255, 196, 0);
+    min-height: 50px;
+}
+#yellowgreen {
+    background-color: yellowgreen;
+    min-height: 50px;
+}
+#bluegreen {
+    background-color: rgb(0, 255, 221);
+    min-height: 50px;
+}
+#blueviolet {
     background-color: blueviolet;
     min-height: 50px;
 }
-    
+#redviolet {
+    background-color: rgb(221, 21, 81);
+    min-height: 50px;
+}

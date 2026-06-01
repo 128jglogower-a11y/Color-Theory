@@ -58,3 +58,15 @@
     background-color: rgb(71, 180, 71);
     min-height: 50px;
 }
+#sunset {
+    background-color: indianred;
+    min-height: 50px;
+}
+#sunshine {
+    background-color:rgb(255, 225, 54);
+    min-height: 50px;
+}
+#gold {
+    background-color: gold;
+    min-height: 50px;
+}

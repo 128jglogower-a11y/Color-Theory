@@ -70,3 +70,19 @@
     background-color: gold;
     min-height: 50px;
 }
+#lightred {
+    background-color: rgb(243, 86, 13);
+    min-height: 50px;
+}
+#lightorange {
+    background-color:rgb(255, 165, 80);
+    min-height: 50px;
+}
+#amber {
+    background-color:rgb(207, 134, 24);
+    min-height: 50px;
+}
+#goldenyellow {
+    background-color: rgb(247, 223, 163);
+    min-height: 50px;
+}
